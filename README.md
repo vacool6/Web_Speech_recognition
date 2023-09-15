@@ -5,7 +5,7 @@ This is a simple web application that uses the Web Speech API for speech recogni
 
 ## Demo
 
-You can see a live demo of the application [https://web-speech-recognition.vercel.app/](#). (Provide a link if you have deployed it online)
+You can see a live demo of the application : https://web-speech-recognition.vercel.app/
 
 ## Features
 
